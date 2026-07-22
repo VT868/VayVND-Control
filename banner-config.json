@@ -1,9 +1,9 @@
 {
-  "enabled": false,
-  "visibleFrom": "2099-01-01T00:00:00+07:00",
+  "enabled": true,
+  "visibleFrom": "2026-07-01T00:00:00+07:00",
   "imageUrl": "",
-  "linkUrl": "",
+  "linkUrl": "https://www.google.com/",
   "label": "Quảng cáo",
-  "title": "Thông tin tài chính",
-  "subtitle": "Chạm để xem chi tiết"
+  "title": "Banner demo",
+  "subtitle": "Chạm để kiểm tra mở liên kết"
 }

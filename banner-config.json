@@ -2,8 +2,7 @@
   "enabled": false,
   "visibleFrom": "2026-07-01T00:00:00+07:00",
   "imageUrl": "",
-  "linkUrl": "https://www.google.com/",
+  "linkUrl": "",
   "label": "Quảng cáo",
   "title": "Banner demo",
-  "subtitle": "Chạm để kiểm tra mở liên kết"
 }
